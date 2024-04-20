@@ -1,3 +1,4 @@
+![logo]
 <h1 align="center">Hi 👋, Shreyash this side</h1>
 <h3 align="center">A Computer Science enthusiast</h3>
 
