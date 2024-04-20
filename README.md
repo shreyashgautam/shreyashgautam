@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Shreyash this side</h1>
 <h3 align="center">A Computer Science enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw1yx7i78MjqNBWwszQcSCcC&ust=1713691607088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiasvG80IUDFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F858428378991517366%2F&psig=AOvVaw0r230dedOL2joyDkvzSDDb&ust=1713691822678000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiT49S90IUDFQAAAAAdAAAAABAp.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashgautam&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashgautam" /> </p>
 
 - 🌱 I’m currently learning **Web development,Machine learning**
