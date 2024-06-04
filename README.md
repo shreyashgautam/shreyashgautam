@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashgautam&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashgautam" /> </p>
 
-- 🌱 I’m currently learning **Web development,Machine learning**
+- 🌱 I’m currently learning **Mern Stack,Machine learning**
 
-- 💬 Ask me about **Cpp,Python,JS**
+- 💬 Ask me about **Cpp,Python,JS,Java**
 
 - 📫 How to reach me **shreyashgautam2007@gmail.com**
 
