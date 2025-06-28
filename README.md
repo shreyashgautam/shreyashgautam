@@ -115,45 +115,7 @@
 
 ---
 
-## 💡 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyashgautam&repo=repo1&theme=tokyonight)](https://github.com/shreyashgautam/repo1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyashgautam&repo=repo2&theme=tokyonight)](https://github.com/shreyashgautam/repo2)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/shreyashgautam/shreyashgautam/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🎵 Currently Jamming To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/username)
-
-</div>
-
----
 
 <div align="center">
 
