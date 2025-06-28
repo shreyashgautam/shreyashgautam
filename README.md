@@ -33,23 +33,20 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,kotlin,go,rust,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,kotlin,c" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,sass,figma" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,flask,mongodb,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,mongodb,mysql,postgresql" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,git,github,linux,nginx" />
-</p>
+
 
 ### 🤖 AI/ML & Data Science
 <p align="center">
@@ -75,7 +72,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash%20gautam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-gautam/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shreyashgautam21)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/shreyash_gautam_10)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyashgautam)
